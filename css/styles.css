@@ -1,0 +1,34 @@
+body{
+    margin: 20px;
+    padding: 20px;
+}
+.btn-search{
+    background-color: white;
+    color: rgb(3, 212, 212);
+    border-color: rgb(3, 212, 212);
+    padding: 5px 30px;
+    margin: 10px;
+    border-radius: 10px;
+    font-weight: 600;
+    display: block;
+}
+.btn-sum{
+    background-color: aquamarine;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin: 10px;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: larger;
+    display: block;
+}
+.btn-account{
+    background-color: rgb(55, 55, 232);
+    color: white;
+    padding: 10px 30px;
+    margin: 10px;
+    box-shadow: 10px 5px 5px black;
+    font-weight: 200;
+    display: block;
+}
